@@ -13,7 +13,8 @@ RUN \
         numpy==1.21.0 \
         pandas==1.3.0 \
         gensim==4.0.1 \
-        psycopg2==2.9.1 
+        psycopg2==2.9.1 \
+        textdistance==4.2.1
 
 EXPOSE 8888
 
